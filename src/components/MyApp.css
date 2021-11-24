@@ -1,0 +1,22 @@
+#search {
+    width : 200px ; 
+    margin : 10px ;
+    border-radius: 15px;
+    background-color: transparent;
+}
+#btn {
+    border-radius: 15px;
+    margin : 15px
+}
+
+.break{
+    padding: 50px;
+}
+.fer{
+    width: 50%;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+    left: 25%;
+}
+
